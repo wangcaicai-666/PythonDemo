@@ -1,0 +1,20 @@
+1564249176991	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5p/xbvz8vys61zfhf5h_004xld80000gn/T/rust_mozprofile.xmTInWJbtmKF"
+1564249179241	Marionette	INFO	Listening on port 57286
+1564249179277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1564249183347	Marionette	INFO	Stopped listening on port 57286
+1564250381962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5p/xbvz8vys61zfhf5h_004xld80000gn/T/rust_mozprofile.Hd9AzZFE4jnq"
+1564250383903	Marionette	INFO	Listening on port 58723
+1564250383912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1564250390947	Marionette	INFO	Stopped listening on port 58723
+1564250410038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5p/xbvz8vys61zfhf5h_004xld80000gn/T/rust_mozprofile.kEaLd3C4Upog"
+1564250411867	Marionette	INFO	Listening on port 58838
+1564250411886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1564250415897	Marionette	INFO	Stopped listening on port 58838
+1564250793944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/5p/xbvz8vys61zfhf5h_004xld80000gn/T/rust_mozprofile.1RURXQpt1X5d"
+1564250795725	Marionette	INFO	Listening on port 59331
+1564250795798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_mac_82990d4.js, line 4: ReferenceError: c is not defined
+1564250799870	Marionette	INFO	Stopped listening on port 59331
